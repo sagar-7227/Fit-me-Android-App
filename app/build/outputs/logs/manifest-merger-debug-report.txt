@@ -4,6 +4,7 @@ ADDED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2
 INJECTED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-122:12
 INJECTED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-122:12
 INJECTED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:2:1-122:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dell\.gradle\caches\transforms-3\ceda6f3606848ff1960c251262b2ade4\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\dell\.gradle\caches\transforms-3\55ec8fce857a2950a7ea07119b6b0921\transformed\jetified-firebase-auth-ktx-21.0.6\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\dell\.gradle\caches\transforms-3\c1e65afc2926a1f203a242c7e24584e3\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
 MERGED from [com.google.mlkit:pose-detection:18.0.0-beta2] C:\Users\dell\.gradle\caches\transforms-3\f1cb0c606f7a82ce2cd6e411090c4ce3\transformed\jetified-pose-detection-18.0.0-beta2\AndroidManifest.xml:2:1-9:12
@@ -12,7 +13,6 @@ MERGED from [com.google.mlkit:pose-detection-common:18.0.0-beta2] C:\Users\dell\
 MERGED from [com.google.mlkit:acceleration:16.0.0-beta1] C:\Users\dell\.gradle\caches\transforms-3\a664588f60c23b46eeaa2a55ccaf515c\transformed\jetified-acceleration-16.0.0-beta1\AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.work:work-multiprocess:2.7.0] C:\Users\dell\.gradle\caches\transforms-3\ad252276a9a08898226864201021985c\transformed\jetified-work-multiprocess-2.7.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\dell\.gradle\caches\transforms-3\37b57271ac8067994bdb8ec8084c65ae\transformed\work-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dell\.gradle\caches\transforms-3\ceda6f3606848ff1960c251262b2ade4\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\dell\.gradle\caches\transforms-3\0aac68ce74c8dd960042db2863cdc7ec\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.mlkit:camera:16.0.0-beta3] C:\Users\dell\.gradle\caches\transforms-3\a7c9d1f01ffd2fdc56a2ef916ffbcf5b\transformed\jetified-camera-16.0.0-beta3\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\dell\.gradle\caches\transforms-3\8aa9fa82392f68c0e6b8d9eff891c634\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
@@ -106,6 +106,8 @@ uses-sdk
 ADDED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:7:5-157
 INJECTED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:7:5-157
 INJECTED from D:\mlkit\android\vision-quickstart\app\src\main\AndroidManifest.xml:7:5-157
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dell\.gradle\caches\transforms-3\ceda6f3606848ff1960c251262b2ade4\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dell\.gradle\caches\transforms-3\ceda6f3606848ff1960c251262b2ade4\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\dell\.gradle\caches\transforms-3\55ec8fce857a2950a7ea07119b6b0921\transformed\jetified-firebase-auth-ktx-21.0.6\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\dell\.gradle\caches\transforms-3\55ec8fce857a2950a7ea07119b6b0921\transformed\jetified-firebase-auth-ktx-21.0.6\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\dell\.gradle\caches\transforms-3\c1e65afc2926a1f203a242c7e24584e3\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
@@ -122,8 +124,6 @@ MERGED from [androidx.work:work-multiprocess:2.7.0] C:\Users\dell\.gradle\caches
 MERGED from [androidx.work:work-multiprocess:2.7.0] C:\Users\dell\.gradle\caches\transforms-3\ad252276a9a08898226864201021985c\transformed\jetified-work-multiprocess-2.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\dell\.gradle\caches\transforms-3\37b57271ac8067994bdb8ec8084c65ae\transformed\work-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\dell\.gradle\caches\transforms-3\37b57271ac8067994bdb8ec8084c65ae\transformed\work-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dell\.gradle\caches\transforms-3\ceda6f3606848ff1960c251262b2ade4\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\dell\.gradle\caches\transforms-3\ceda6f3606848ff1960c251262b2ade4\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
 MERGED from [com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\dell\.gradle\caches\transforms-3\0aac68ce74c8dd960042db2863cdc7ec\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:6:5-44
 MERGED from [com.google.mlkit:segmentation-selfie:16.0.0-beta4] C:\Users\dell\.gradle\caches\transforms-3\0aac68ce74c8dd960042db2863cdc7ec\transformed\jetified-segmentation-selfie-16.0.0-beta4\AndroidManifest.xml:6:5-44
 MERGED from [com.google.mlkit:camera:16.0.0-beta3] C:\Users\dell\.gradle\caches\transforms-3\a7c9d1f01ffd2fdc56a2ef916ffbcf5b\transformed\jetified-camera-16.0.0-beta3\AndroidManifest.xml:6:5-44

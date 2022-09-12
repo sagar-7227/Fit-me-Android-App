@@ -34,7 +34,6 @@
         android:debuggable="true"
         android:icon="@drawable/fitness_logo"
         android:label="@string/app_name"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat" >
         <activity
             android:name="com.google.mlkit.vision.demo.kotlin.SplashScreen"
