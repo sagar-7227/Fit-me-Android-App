@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_lunch.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\lunch.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_circle_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\circle_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_straight_arm_circles.PNG.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\straight_arm_circles.PNG"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_brown_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\brown_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_check.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_lunch.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\lunch.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_login_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\login_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_bmi.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\bmi.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_top_background2.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xxhdpi_fitness.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xxhdpi\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_activity_planet_detail.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\activity_planet_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_top_background.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_bg_header.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\bg_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_background_banner2.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\background_banner2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xxxhdpi_fitness.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xxxhdpi\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xhdpi_fitness.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xhdpi\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_login_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\login_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_circle_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\circle_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_circle_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\circle_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_snacks.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\snacks.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_lay_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\lay_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_top_background2.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_top_background2.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_breakfast.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\breakfast.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_snacks_pic.jpg.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\snacks_pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_snacks.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\snacks.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_cable_face_pulls.PNG.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\cable_face_pulls.PNG"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout-land_activity_vision_camerax_live_preview.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout-land\\activity_vision_camerax_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_dumbbell_shoulder_push_press.PNG.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\dumbbell_shoulder_push_press.PNG"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_exercise_pic.jpg.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\exercise_pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_top_background.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_breakfast_pic.jpg.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\breakfast_pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_top_background.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_settings_style.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\settings_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-hdpi_fitness.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-hdpi\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_breakfast.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\breakfast.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_google.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_login_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\login_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_bg_footer.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\bg_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_login_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\login_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_google_login.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\google_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_login_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\login_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_fitness_logo.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\fitness_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_activity_vision_camerax_live_preview.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\activity_vision_camerax_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_toggle_style.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\toggle_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_lunch_pic.jpg.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\lunch_pic.jpg"
+    },
+    {
+        "merged": "com.google.mlkit.vision.demo.app-merged_res-29:/layout_check_bmi.xml.flat",
+        "source": "com.google.mlkit.vision.demo.app-main-31:/layout/check_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_chatbot_login.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\chatbot_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_spinner_style.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\spinner_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_dietpic.jpg.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\dietpic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_exercise_recycler.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\exercise_recycler.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_circle_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\circle_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_background_banner.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\background_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_crab_walk.PNG.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\crab_walk.PNG"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_top_background.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_white_btn.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\white_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_exercise.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\exercise.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_check_bmi.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\check_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_pronet.PNG.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\pronet.PNG"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-mdpi_fitness.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-mdpi\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_bmi_result.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\bmi_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_dinner.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\dinner.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_top_background2.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_covid.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\covid.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_top_background2.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\top_background2.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xhdpi_google.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_activity_chooser.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\activity_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\xml_preference_live_preview_quickstart.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\xml\\preference_live_preview_quickstart.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-hdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_view.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_pose.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\pose.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_circle_top.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\circle_top.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxxhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-mdpi_google.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-mdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_chat.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable_dinner_pic.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable\\dinner_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\layout_dinner.xml.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\layout\\dinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-merged_res-29:\\drawable-xxhdpi_google.png.flat",
+        "source": "C:\\Users\\dell\\.gradle\\daemon\\7.3.3\\com.google.mlkit.vision.demo.app-main-31:\\drawable-xxhdpi\\google.png"
+    }
+]
